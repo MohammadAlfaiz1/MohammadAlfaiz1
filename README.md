@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammadAlfaiz1
+- 👋 Hi, I’m @MohammadAlfaiz
 - 👀 I’m interested in ... software developer
 - 🌱 I’m currently learning ... DSA with C++
 - 💞️ I’m looking to collaborate on ...
