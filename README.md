@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadAlfaiz
-- 👀 I’m interested in ... software developer
-- 🌱 I’m currently learning ... DSA with C++
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send message
 - 😄 Pronouns: ...
